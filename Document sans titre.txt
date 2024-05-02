@@ -1,0 +1,87 @@
+﻿Section 1: General Awareness
+
+
+Web Development Basics:
+
+
+What is web development, and why is it essential in the context of the internet?
+
+
+Web development is a type of programming that involves creating a website and web application that can be accessed from the Internet on any device. It involves designing, building and maintaining websites using various programming languages like JS, Python or PHP. We have two main parts in web development : the Frontend and the Backend.
+
+
+  This is essential because today the Internet is everywhere and accessible to everyone to search for information, find a job, use a service and many other things. Online presence is, for example, essential for a company or an administration to have contact with users or customers.
+
+
+Web development is therefore essential to fully exploit the Internet, whether for the creation of information sharing or communication platforms or for the processing of data linked to the user.
+
+
+
+
+HTML Knowledge:
+
+
+Have you heard of HTML? If yes, what does HTML stand for, and what is its primary purpose in web development?
+        
+Yes, I have heard of HTML, HTML stands for HyperText Markup Language, it is a markup language used to create the structure of your web page it notably uses tags (nav, ul, h1, p) to indicate to the browser the type of content that is displayed on the page and it also allows assistance tools to be able to recognize the content of the page, it is also very useful for the SEO of our site.
+        
+
+
+
+
+Section 2: Familiarity with CSS
+
+
+CSS Understanding
+
+
+Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
+
+
+Yes, I know what CSS is, CSS or Cascading Style Sheet is a style language used to add style and design to a web page, it is generally integrated into an HTML page to be able to implement its style on the page, It is particularly used to make a site responsive, therefore with an interface that can be used on the majority of screens.
+Section 3: JavaScript and Its Importance
+
+
+Introduction to JavaScript
+
+
+Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
+
+
+
+
+Yes I have already heard of Javascript, it is a programming language widely used for the web, it allows the creation of dynamic websites, it allows you to add interaction with the user on a site. It is crucial in a site because it is the only programming language directly integrated and compatible with all browsers and it does not require the use of a compiler or other tools like PHP or Python would need. Thanks to this it communicates effectively with the browser and makes it possible to retrieve information and communicate with the user, for example by recovering events such as pressing a key on the keyboard or sending data from a form.
+
+
+
+
+Section 4: Introduction to React and Node.js
+
+
+React and Node.js Awareness
+
+
+Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development.
+
+
+
+
+I'm not very familiar with their uses. But I know their principles and field of application: React and a Javascript Frontend Framework allowing the creation of dynamic and interactive interfaces, it notably allows the creation of reusable components and the management of interactions and the state of the application. React is established as the standard for Frontend web development because it provides solutions to several recurring problems related to the frontend and it also has a very large community which makes it the frontend JS framework with the most online resources.
+Node.JS is a runtime environment for and in Javascript allowing the creation of network applications and web servers with Javascript. It is very useful because it has many tools that can be very useful during development, including npm which is its default package manager.
+
+
+
+
+
+
+Section 5: Bonus Question
+
+
+Learning Intentions
+
+
+Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
+
+
+I want to learn web development to be able to create tools that can help on a daily basis, particularly in the field of education. Unlike software or mobile development, web development allows you to reach a wider audience on all devices.
+I hope at the end of my training to be able to broaden my current skills and be able to set up fully functional web applications
